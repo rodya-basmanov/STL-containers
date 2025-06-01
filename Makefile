@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = -std=c++11 -Wall -Wextra -pedantic -O2
+CXXFLAGS = -std=c++14 -Wall -Wextra -pedantic -O2
 INCLUDES = -I./include
 LDFLAGS = 
 
