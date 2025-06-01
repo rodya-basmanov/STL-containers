@@ -30,3 +30,54 @@
 *.exe
 *.out
 *.app
+
+# Build directories
+bin/
+obj/
+build/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.vs/
+.DS_Store
+
+# Compiled object files
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.exe
+*.out
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Generated files
+*.d
+*.gch
+*.pch
+
+# Dependency directories
+vendor/
+node_modules/
+
+# Temporary files
+*~
+tmp/
+temp/
+
+# Logs
+*.log
+logs/
+
+# Compiled python files
+__pycache__/
+*.py[cod]
+*$py.class
